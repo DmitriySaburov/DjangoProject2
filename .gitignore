@@ -1,0 +1,3 @@
+.venvDjangoProject2/
+__pycache__/
+__SECRET_KEY__.py
