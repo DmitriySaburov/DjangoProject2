@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "posts.apps.PostsConfig",
     "onetoone.apps.OnetooneConfig",
+    "onetomany.apps.OnetomanyConfig",
 ]
 
 MIDDLEWARE = [
